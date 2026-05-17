@@ -6,7 +6,7 @@ This software is a simple Hello World application written in Python. The program
 
 The purpose of creating this software was to practice the complete software development workflow including coding, version control, documentation, video demonstration, and publishing software online using GitHub.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]((https://youtu.be/Er6kk_TU3RU))
 
 # Development Environment
 
